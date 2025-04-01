@@ -197,8 +197,8 @@
     "typescript": "^5",
     "unified": "^11",
     "unist-util-visit": "^5",
-    "vite": "5.1.4",
-    "vitest": "~1.2.2",
+    "vite": "5.4.16",
+    "vitest": "~3.1.1",
     "vitest-canvas-mock": "^0.3"
   },
   "publishConfig": {
